@@ -1,0 +1,17 @@
+{
+    "name": "pavelgaponenko/hello-world",
+    "description": "Test composer package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Гапоненко",
+            "email": "p.gaponenko@worksolutions.ru"
+        }
+    ],
+    "require": {}
+}
