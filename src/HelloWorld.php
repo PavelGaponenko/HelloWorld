@@ -1,6 +1,6 @@
 <?php
 
-namespace App\HelloWorld;
+namespace PGaponenko\HelloWorld;
 
 class HelloWorld
 {
